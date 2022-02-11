@@ -3,7 +3,7 @@
 
 
 :root{
-    --background: linear-gradient(135deg, #5b5d5e29 0%, #1a1b1c54 100%);
+    --background: linear-gradient(135deg, #2223247b 0%, #06356493 100%);
     --color-primary:#2675A6;
     --color-secondary:#79ACD9;
     --color-blanco:#F2F2F2;
@@ -37,7 +37,7 @@ body{
 
 .hero{
     height: 100vh;
-    background-image: var(--background), url('../assets/laptop-2589420_1920.jpg');
+    background-image: var(--background), url('../assets/laptop-2592316_1920.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -93,14 +93,14 @@ body{
 
 .hero__title{
     font-size: 3.2rem;
-    color: var(--color-primary);
+    color: #fff;
 }
 
 .hero__subtitle{
     font-size: 2rem;
     font-weight: 500;
     margin: 15px 0;
-    color: var(--color-primary);
+    color: #fff;
 }
 
 .hero__cta{
